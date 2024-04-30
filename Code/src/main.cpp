@@ -1,6 +1,6 @@
 #include <Arduino.h>
-#define BLYNK_TEMPLATE_ID "TMPL64cCnrGn1"
-#define BLYNK_TEMPLATE_NAME "Air Pollution Monitoring System G4"
+#define BLYNK_TEMPLATE_ID "" // Enter Blynk_Template_ID
+#define BLYNK_TEMPLATE_NAME "" // Enter Blynk_Template_Name
 #define BLYNK_FIRMWARE_VERSION "0.0.1"
 #define BLYNK_PRINT Serial
 //#define BLYNK_DEBUG
