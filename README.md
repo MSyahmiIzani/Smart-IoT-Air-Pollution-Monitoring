@@ -10,7 +10,7 @@ Pinout for PMS5003
 
 ![image](https://github.com/MSyahmiIzani/Smart-IoT-Air-Pollution-Monitoring/assets/129363824/fef91238-c558-4bfd-8636-1a12205b6b08)
 
-
+IoT: Blynk Edgent 
 
 
 
